@@ -1,0 +1,20 @@
+.sidebar {
+    &.horizontal-sidebar {
+        display: none;
+    }
+}
+
+.pos-modal {
+    .modal-header {
+        h5 {
+            margin-bottom: 0;
+        }
+    } 
+} 
+.custom-modal-header {
+    .page-title {
+        h4 {
+            margin-bottom: 0;
+        }
+    } 
+} 
